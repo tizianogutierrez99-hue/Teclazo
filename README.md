@@ -67,13 +67,4 @@ Alternativamente, desde una terminal ubicada en la carpeta raíz del proyecto:
 mvn javafx:run
 ```
 
-## Integrantes
 
-- Tiziano Gutierrez
-- Jeremias Castro
-- Ian Freccero
-- Gino Camilletti
-
-## Materia
-
-Desarrollo de Sistemas Orientados a Objetos
